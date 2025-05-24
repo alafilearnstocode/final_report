@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Style Sync',
   tagline: 'We all love to dress for the weather.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/bike.svg',
 
   // Set the production url of your site here
   url: 'https://therecyclery.vercel.app',
@@ -61,7 +61,7 @@ const config: Config = {
       title: 'Style Sync',
       logo: {
         alt: 'Style Sync Logo',
-        src: 'img/logo.svg',
+        src: 'img/bike.svg',
         href: 'https://therecyclery.vercel.app', // link to our site
       },
       items: [
