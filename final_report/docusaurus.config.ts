@@ -82,11 +82,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Documentation',
+          title: 'Presentation',
           items: [
             {
-              label: 'Final Report',
-              to: '/docs/intro',
+              label: 'Final Presentation',
+              to: 'https://docs.google.com/presentation/d/13OlJpB6YJicVDo4Weqzk14rQerwHiZ_f6-5F7NipUXk/edit?usp=sharing',
             },
           ],
         },
