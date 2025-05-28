@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/bike.svg',
 
   // Set the production url of your site here
-  url: 'https://therecyclery.vercel.app',
+  url: 'https://v0-style-sync-one.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -62,7 +62,7 @@ const config: Config = {
       logo: {
         alt: 'Style Sync Logo',
         src: 'img/bike.svg',
-        href: 'https://therecyclery.vercel.app', // link to our site
+        href: 'https://v0-style-sync-one.vercel.app', // link to our site
       },
       items: [
         {
