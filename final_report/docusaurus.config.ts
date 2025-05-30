@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'SnowSync',
+  title: 'ClimateCloset',
   tagline: 'We all love to dress for the weather.',
   favicon: 'img/snow.svg',
 
@@ -58,9 +58,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'SnowSync',
+      title: 'ClimateCloset',
       logo: {
-        alt: 'SnowSync Logo',
+        alt: 'ClimateCloset Logo',
         src: 'img/snow.svg',
         href: 'https://v0-style-sync-one.vercel.app', // link to our site
       },
