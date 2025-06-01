@@ -1,8 +1,8 @@
 ---
-sidebar_position: 7
+sidebar_position: 5
 ---
 
-# Appendix X: User Testing Summary
+# Appendix E: User Testing Summary
 
 ## Introduction
 On 7th May, 2025, our team conducted a series of user testing sessions to gather feedback on all four of our mockups developed for a product intended to help students dress appropriately for Evanston’s unpredictable weather. These mockups included: the Sectioned Wardrobe, the Clothes-Share, the Style Chatbot and the Style Uploader. Our goal was to observe and understand how participants interacted with each mockup, and identify pain points or areas of improvement.
