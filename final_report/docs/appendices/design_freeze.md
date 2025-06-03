@@ -34,3 +34,15 @@ Desktop Design
 <p align="center">
   <img src="/img/designf-4.png" alt="Design Freeze Figure-4" />
 </p>
+
+
+### Bill of Materials
+
+| Item           | Description                                | Qty  | Source              | Unit Cost                       | Total cost                        |
+|----------------|--------------------------------------------|------|---------------------|----------------------------------|------------------------------------|
+| Android store  | Price to implement                         | 1    | Google              | $25 Annually                     | $25 Annually                       |
+| Apple store    | Price to implement the app on Apple store  | 1    | Apple               | $99 Annually                     | $99 Annually                       |
+| Website domain | Price to acquire a domain for the website  | 1    | SQUARESPACE Domains | $14                              | $14                                |
+| Tokens         | Price for the input and output             | 100  | Google Gemini       | 55 cents per user per month      | $55 per month (100 users)          |
+| V0 Subscription| Price for V0 platform subscription         | 3    | V0                  | $30 each                         | $110 (including Host 30*3+20)      |
+
