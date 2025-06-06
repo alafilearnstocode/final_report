@@ -1,8 +1,8 @@
 ---
-sidebar_position: 11
+sidebar_position: 10
 ---
 
-# Appendix T: Instructions for Use
+# Appendix J: Instructions for Use
 
 Instruction for using the ClimateCloset:
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 8
 ---
 
-# Appendix J: Design Review Summary
+# Appendix H: Design Review Summary
 
 We held our design review on Friday, May 16, 2025 with our classmates and professors. We presented our two mockups which included a Figma design of how our solution would look on a web browser and a walkthrough of our AI outfit suggestion pipeline. We asked our classmates and professors for feedback on our solution’s layout, features, and descriptions.
 

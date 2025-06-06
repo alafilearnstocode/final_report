@@ -1,9 +1,9 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 id: interview-guide
 ---
 
-# Appendix K: Interview/Observation Guide
+# Appendix I: Interview/Observation Guide
 **Team Members:** Esabella Fung, Alafi Dumo, Joshua Lee, Kevin Wu
 
 **Goal:** Understand how students approach the problem of having trouble dressing in unfamiliar weather environments.
