@@ -20,7 +20,7 @@ The design that we have created is called the ClimateCloset. It is a mobile and 
     <p><strong>Figure 1:</strong> Desktop Homepage (1)</p>
   </div>
   <div style={{ flex: 1, marginLeft: "10px", textAlign: "center" }}>
-    <img src="/img/exec-1.png" alt="Figure 2" style={{ width: "100%" }} />
+    <img src="/img/exec-2.png" alt="Figure 2" style={{ width: "100%" }} />
     <p><strong>Figure 2:</strong> Desktop Homepage (2)</p>
   </div>
 </div>
