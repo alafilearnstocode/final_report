@@ -5,7 +5,7 @@ sidebar_position: 2
 # Introduction
 
 ### Problem
-Many college students struggle with dressing appropriately for the volatile Midwest weather. This is a prevalent issue among college students coming from the South, West, or abroad. Problems associated with this unfamiliarity with the weather extend beyond mere discomfort and time waste, and can also have a profound impact on a person’s overall physical health, well-being, and ability to fit in. 
+Many college students struggle with dressing appropriately for the volatile Midwest weather. This is a prevalent issue among college students coming from the South, the West, or abroad. Problems associated with this unfamiliarity with the weather extend beyond mere discomfort and time waste, and can also have a profound impact on a person’s overall physical health, well-being, and ability to fit in. 
 
 1. Physical Discomfort and Inefficiency
 Students who aren’t dressed appropriately for the weather often experience daily discomfort, being too cold, too hot, or wet from unexpected snow/rain. This problem was also identified when many of our users expressed that discomfort can distract them during class, reduce concentration, and make campus life more tiring and unpleasant. The time wasted on choosing the right outfit or constantly needing to return to dorms to change or dry off can also make students late for commitments or less productive overall.
