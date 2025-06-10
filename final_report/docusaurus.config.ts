@@ -46,7 +46,7 @@ const config: Config = {
       {
         redirects: [
           {
-            to: '/docs/intro',
+            to: '/docs/executive_summary',
             from: ['/'],
           },
         ],
