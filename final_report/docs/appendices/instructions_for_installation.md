@@ -134,7 +134,9 @@ Go to [supabase.com](https://supabase.com/dashboard/organizations) and click "Ne
 ### Step 2: Configure Database Schema
 
 1. In your Supabase dashboard, go to **SQL Editor** (it's on the menu at the left)
-   ![Supabase SQL Editor Location](/img/left_menu.png)
+<p align="center">
+  <img src="/img/left_menu.png" alt="Supabase SQL Editor Location" width="350" style={{ height: 'auto' }} />
+</p>
 2. Click "New Query"
 3. Copy and paste the following schema:
 
@@ -289,8 +291,8 @@ CREATE INDEX idx_outfit_items_clothing_id ON outfit_items(clothing_id);
 
 1. Go to **Settings** → **API**
 2. Save these values (you'll need them later):
-   - **Project URL** (looks like `https://abcdefghijklmnop.supabase.co`)
    - **Project API Key** (anon public key)
+   - **Project URL** (looks like `https://abcdefghijklmnop.supabase.co`)
    ![Supabase Project URL and API Keys](/img/project_url.png)
    - **Service Role Key** (service_role key - keep this secret!)
 3. Go to **Settings** → **Data API**

@@ -39,3 +39,9 @@ This patent includes a permanent tag used for identifying and organizing clothes
 ![Patent-3](/img/patent-3.png)
 <p align="center"><em>Figure 3: Garment Organization and Identification Apparatus</em></p>
 The apparatus described in this patent does not account for weather, but its application can be extended to identifying and grouping clothes for specific weather conditions or temperatures.
+
+## References
+Bohk, G. P. (2018). Garment organization and identification apparatus and method (Patent No. US20180240368).
+Hale, R. D., Bailey, L. J., & Saccone, G. T. (2014). Adaptive Weather Interrogation System (Patent No. WO/2014/193518). The Boeing Company. https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2014193518
+HUR HYUN WOO. (2020). Method and system for sharing cloths (Patent No. KR102137967B1).
+Penner, R., Fogel, D., Fogel, G., Shenkal, Y., & Vaccaro, J. M. (2021). System and method for fashion recommendations (Patent No. US 10963944 B2). Color Butler, Inc.
