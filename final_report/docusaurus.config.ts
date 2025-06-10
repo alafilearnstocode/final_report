@@ -86,7 +86,7 @@ const config: Config = {
           items: [
             {
               label: 'Final Presentation',
-              to: 'https://docs.google.com/presentation/d/13OlJpB6YJicVDo4Weqzk14rQerwHiZ_f6-5F7NipUXk/edit?usp=sharing',
+              to: 'https://docs.google.com/presentation/d/1tp4yO9yfadWD2IPFaRoseHpKTeSW9kYZJEPr2CTg9-Y/edit?slide=id.p#slide=id.p',
             },
           ],
         },
